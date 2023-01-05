@@ -13,6 +13,17 @@
     border-radius: 5px;
     background: #FD6E0A;
 }
+.btn-contact{
+    width: 100px;
+    border-radius: 5px;
+    
+    font-size: 15px;
+    font-weight: 700;
+    height: 64px;
+    color: #FD6E0A;
+   border: 1px solid #FD6E0A;
+   margin-left: 20px;
+}
 .header{
     background: #FFF8F3;
     background-image: url(../images/header_bg.png),url(../images/developer.png);
